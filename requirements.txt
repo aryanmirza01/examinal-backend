@@ -1,0 +1,30 @@
+fastapi==0.135.1
+uvicorn[standard]==0.42.0
+sqlalchemy==2.0.48
+pymysql==1.1.2
+cryptography==46.0.5
+pydantic==2.12.5
+pydantic-settings==2.13.1
+python-jose[cryptography]==3.5.0
+passlib[bcrypt]==1.7.4
+bcrypt==5.0.0
+python-multipart==0.0.22
+python-dotenv==1.2.2
+pdfplumber==0.11.9
+python-docx==1.2.0
+python-pptx==1.0.2
+langchain==1.2.12
+langchain-nvidia-ai-endpoints
+langchain-community==0.4.1
+langchain-community==0.4.1
+langchain-text-splitters==1.1.1
+chromadb==1.5.5
+# sentence-transformers removed in favor of NVIDIA Embeddings
+# openai removed
+# google-generativeai removed
+numpy==2.4.3
+aiofiles==25.1.0
+jinja2==3.1.6
+httpx==0.28.1
+alembic==1.18.4
+requests
